@@ -1,0 +1,14 @@
+# Godot specific
+.import/
+export.cfg
+export_presets.cfg
+
+# System/IDE
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+*.db
+.DS_Store
+Thumbs.db
