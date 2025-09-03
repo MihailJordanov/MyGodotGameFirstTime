@@ -1,14 +1,12 @@
-# Godot specific
+# Godot 4
+.godot/
 .import/
+# Опционално (export конфигурации)
 export.cfg
 export_presets.cfg
 
-# System/IDE
-*.log
-*.tmp
-*.swp
-*.swo
-*.bak
-*.db
+# OS/IDE
 .DS_Store
 Thumbs.db
+*.log
+*.tmp
